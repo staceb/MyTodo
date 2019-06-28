@@ -13,3 +13,20 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.container {
+  padding: 0 1rem;
+}
+
+.btnSubmit {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btnSubmit:hover {
+  background: #666;
+}
